@@ -6,14 +6,15 @@ Um pouco sobre mim:
 - Sou do Rio de Janeiro;
 - Formado em economia e me aprofunando cada vez mais e ciências de dados;
 - Meu aniversário é 5 de setembro;
-- E amo jogar Legend of Zelda
+- E amo jogar Legend of Zelda.
 ---
-
+Me contate:
 <div id="badges">
   <a href = "https://www.linkedin.com/in/pedro-molter?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bvx8UdzGgSBqG8rgGS1RgEg%3D%3D">
-  <img src="https:img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logoColor=White" alt="LinkedIn Badge">
+  <img <img alt="LinkedIn" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/LinkedIn.svg">>
   </a>
 </div>
+
 ---
 
 👨‍💻Atualmente estou:

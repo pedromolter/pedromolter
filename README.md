@@ -33,5 +33,10 @@ Me contate:
 <img alt="SQL Server" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/SQL Server.svg">
 <img alt="VSCode" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/VSCode.svg">
 <img alt="Trello" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Trello.svg">
+<img alt= "jupyter" height="60" width="60" src="https://devicon-website.vercel.app/api/jupyter/original-wordmark.svg"></img>
+<img alt="anaconda" height="60" width="60" src="https://devicon-website.vercel.app/api/anaconda/original.svg"></img>
+<img alt="pandas" height="60" width="60" src="https://devicon-website.vercel.app/api/pandas/original.svg"></img>
+<img alt="numpy" height="60" widht="60" src="https://devicon-website.vercel.app/api/numpy/original.svg"></img>
+<img alt="minitab" height="60" width="60" src="https://devicon-website.vercel.app/api/minitab/original.svg"></img>
 
 </div>
